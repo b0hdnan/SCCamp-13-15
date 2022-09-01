@@ -74,7 +74,9 @@ a{
 		height: 800px;
 	}
 	.frame-child-100:nth-child(7){
+		width: 230px;
 		height: 1420px;
+
 	}
 
 }
