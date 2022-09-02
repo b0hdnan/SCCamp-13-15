@@ -59,6 +59,9 @@ a{
 }
 
 @media (max-width: 600px){
+	h3{
+		margin-top: 60px;
+	}
 	.frame-child{
 		width: 400px;
 		height: 350px;
